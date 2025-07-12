@@ -1,1 +1,8 @@
+D
 the a2 files in modified in feature-2
+=======
+This the a2 file and modified in master in step 11
+>>>>>>> master
+
+
+fiels

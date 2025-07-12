@@ -1,0 +1,6 @@
+This is file 3 and modified in Master
+
+This is the file and altered in feature1
+
+
+Files Merged in master in step 10
